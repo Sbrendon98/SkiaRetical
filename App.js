@@ -8,9 +8,6 @@ import Example from './SkiaTest';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.paragraph}>
-      Dildo 
-      </Text>
      {/* <Example /> */}
      <BettingDial />
     </View>
