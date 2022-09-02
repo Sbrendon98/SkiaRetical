@@ -5,10 +5,12 @@ import  BettingDial from './components/BettingDial'
 import { styles } from './components/Styles'
 import Example from './SkiaTest';
 
+
+
 export default function App() {
   return (
-    <View style={styles.container}>
-     {/* <Example /> */}
+    <View style={styles.container}>  
+    <BettingDial />
      <BettingDial />
     </View>
   );

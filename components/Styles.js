@@ -8,6 +8,7 @@ export const styles = StyleSheet.create({
     paddingTop: Constants.statusBarHeight,
     backgroundColor: '#ecf0f1',
     padding: 8,
+    backgroundColor: "black"
   },
   paragraph: {
     margin: 24,
